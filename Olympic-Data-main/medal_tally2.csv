@@ -1,0 +1,206 @@
+region,Gold,Bronze,Silver,Total
+USA,1035,708,802,2545
+Russia,592,487,498,1577
+Germany,444,491,457,1392
+UK,278,300,317,895
+France,234,287,256,777
+China,228,154,163,545
+Italy,219,198,191,608
+Hungary,178,172,154,504
+Sweden,150,188,175,513
+Australia,150,197,171,518
+Japan,142,161,134,437
+Finland,104,120,86,310
+South Korea,90,89,85,264
+Netherlands,88,114,97,299
+Romania,88,120,95,303
+Cuba,77,70,67,214
+Poland,69,134,87,290
+Canada,64,137,104,305
+Czech Republic,64,75,68,207
+Norway,59,48,51,158
+Switzerland,58,69,82,209
+Bulgaria,51,80,86,217
+Denmark,49,82,81,212
+New Zealand,47,44,27,118
+Belgium,44,63,59,166
+Spain,44,41,63,148
+Greece,42,52,57,151
+Turkey,40,28,27,95
+Ukraine,35,59,32,126
+Serbia,31,37,39,107
+Kenya,31,31,38,100
+Brazil,30,62,36,128
+Austria,26,42,40,108
+South Africa,25,30,33,88
+Ethiopia,22,22,9,53
+Jamaica,22,22,32,76
+Argentina,21,28,25,74
+Kazakhstan,19,29,22,70
+Iran,18,29,21,68
+North Korea,16,23,15,54
+Mexico,13,30,24,67
+Belarus,13,43,28,84
+Croatia,11,12,10,33
+Thailand,9,13,8,30
+Slovakia,9,8,11,28
+Estonia,9,16,9,34
+India,9,12,7,28
+Ireland,9,13,11,33
+Uzbekistan,9,17,7,33
+Georgia,8,18,6,32
+Egypt,7,12,8,27
+Indonesia,7,11,12,30
+Azerbaijan,7,25,12,44
+Bahamas,6,6,2,14
+Lithuania,6,13,6,25
+Morocco,6,12,5,23
+Algeria,5,8,4,17
+Slovenia,5,10,8,23
+Colombia,5,14,9,28
+Portugal,4,12,8,24
+Luxembourg,4,0,2,6
+Latvia,3,5,11,19
+Nigeria,3,13,8,24
+Zimbabwe,3,1,4,8
+Tunisia,3,7,3,13
+Cameroon,3,1,1,5
+Taiwan,3,14,7,24
+Pakistan,3,4,3,10
+Dominican Republic,3,2,2,7
+Trinidad,3,13,5,21
+Venezuela,2,10,3,15
+Uganda,2,2,3,7
+Uruguay,2,6,2,10
+Armenia,2,9,5,16
+Chile,2,4,7,13
+Mongolia,2,14,10,26
+Kosovo,1,0,0,1
+Israel,1,7,1,9
+Puerto Rico,1,6,2,9
+Bahrain,1,1,1,3
+Peru,1,0,3,4
+Panama,1,2,0,3
+Ivory Coast,1,1,1,3
+Mozambique,1,1,0,2
+Vietnam,1,0,3,4
+Syria,1,2,2,5
+United Arab Emirates,1,1,0,2
+Grenada,1,0,1,2
+Tajikistan,1,2,1,4
+Ecuador,1,0,1,2
+Suriname,1,1,0,2
+Costa Rica,1,2,1,4
+Fiji,1,0,0,1
+Jordan,1,0,0,1
+Burundi,1,0,1,2
+Individual Olympic Athletes,1,3,1,5
+Haiti,1,1,1,3
+Palestine,0,0,0,0
+Tanzania,0,0,2,2
+"Virgin Islands, US",0,0,1,1
+Paraguay,0,0,1,1
+Papua New Guinea,0,0,0,0
+Sierra Leone,0,0,0,0
+Sudan,0,0,1,1
+Swaziland,0,0,0,0
+Turkmenistan,0,0,0,0
+"Virgin Islands, British",0,0,0,0
+Palau,0,0,0,0
+Vanuatu,0,0,0,0
+Oman,0,0,0,0
+Yemen,0,0,0,0
+Zambia,0,1,1,2
+Philippines,0,7,3,10
+Solomon Islands,0,0,0,0
+Somalia,0,0,0,0
+Sri Lanka,0,0,2,2
+Senegal,0,0,1,1
+Saudi Arabia,0,2,1,3
+Sao Tome and Principe,0,0,0,0
+San Marino,0,0,0,0
+Samoa,0,0,0,0
+Saint Vincent,0,0,0,0
+Saint Lucia,0,0,0,0
+Saint Kitts,0,0,0,0
+Tonga,0,0,1,1
+South Sudan,0,0,0,0
+Rwanda,0,0,0,0
+Togo,0,1,0,1
+Seychelles,0,0,0,0
+Republic of Congo,0,0,0,0
+Qatar,0,4,1,5
+Timor-Leste,0,0,0,0
+Afghanistan,0,2,0,2
+Niger,0,1,1,2
+Nicaragua,0,0,0,0
+Cayman Islands,0,0,0,0
+Central African Republic,0,0,0,0
+Chad,0,0,0,0
+Comoros,0,0,0,0
+Cook Islands,0,0,0,0
+Curacao,0,0,1,1
+Cyprus,0,0,1,1
+Democratic Republic of the Congo,0,0,0,0
+Djibouti,0,1,0,1
+Dominica,0,0,0,0
+El Salvador,0,0,0,0
+Equatorial Guinea,0,0,0,0
+Eritrea,0,1,0,1
+Gabon,0,0,1,1
+Gambia,0,0,0,0
+Cape Verde,0,0,0,0
+Cambodia,0,0,0,0
+Burkina Faso,0,0,0,0
+Barbados,0,1,0,1
+American Samoa,0,0,0,0
+Andorra,0,0,0,0
+Angola,0,0,0,0
+Antigua,0,0,0,0
+Aruba,0,0,0,0
+Bangladesh,0,0,0,0
+Belize,0,0,0,0
+Brunei,0,0,0,0
+Benin,0,0,0,0
+Bermuda,0,1,0,1
+Bhutan,0,0,0,0
+Boliva,0,0,0,0
+Bosnia and Herzegovina,0,0,0,0
+Botswana,0,0,1,1
+Ghana,0,3,1,4
+Guam,0,0,0,0
+Guatemala,0,0,1,1
+Micronesia,0,0,0,0
+Maldives,0,0,0,0
+Mali,0,0,0,0
+Malta,0,0,0,0
+Marshall Islands,0,0,0,0
+Mauritania,0,0,0,0
+Mauritius,0,1,0,1
+Moldova,0,5,2,7
+Malawi,0,0,0,0
+Monaco,0,1,0,1
+Montenegro,0,0,1,1
+Myanmar,0,0,0,0
+Namibia,0,0,4,4
+Nauru,0,0,0,0
+Nepal,0,0,0,0
+Malaysia,0,4,7,11
+Madagascar,0,0,0,0
+Guinea,0,0,0,0
+Kuwait,0,2,0,2
+Guinea-Bissau,0,0,0,0
+Guyana,0,1,0,1
+Honduras,0,0,0,0
+Iceland,0,2,2,4
+Iraq,0,1,0,1
+Kiribati,0,0,0,0
+Kyrgyzstan,0,2,1,3
+Macedonia,0,1,0,1
+Laos,0,0,0,0
+Lebanon,0,2,2,4
+Lesotho,0,0,0,0
+Albania,0,0,0,0
+Libya,0,0,0,0
+Liechtenstein,0,0,0,0
+Liberia,0,0,0,0
